@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.plus-minus{
+    height: 30px;
+    width: 30px;
+    padding: initial;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    background-color: rgb(7, 7, 97);
+}
+.plus-minus:hover,.plus-minus:focus{
+    background-color: rgb(101, 101, 151);
+    color: rgb(100, 94, 94);
+}
+.submit{
+    color: black;
+    background-color: rgb(110, 100, 100);
+}
+.error{
+    color: red;
+    font-size: small;
+}
